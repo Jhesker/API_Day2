@@ -73,5 +73,5 @@ VALUES
    10,
    'Mary',
    'Jackson',
-   'Floria'
+   'Florida'
 );
